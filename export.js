@@ -70,6 +70,7 @@ else
 		'--disable-sync',
 		'--hide-scrollbars',
 		'--ignore-gpu-blacklist',
+		'--ignore-certificate-errors',
 		'--metrics-recording-only',
 		'--mute-audio',
 		'--no-default-browser-check',
